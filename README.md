@@ -8,3 +8,6 @@ Senior at UNC Chapel Hill studying Data Science & Economics. Aspiring data analy
 - [Resume](https://viswanathansidd.github.io/Sidd%20Viswanathan%20Resume.pdf)
 
 ## 📊 Featured Projects
+### [NBA Salary vs. Performance](https://github.com/viswanathansidd/nba-salary-vs-performance)
+Exploratory analysis of NBA player salaries vs. on-court performance metrics (PER, win shares, points) to examine whether pay tracks production across recent seasons.
+**Tools:** Python, Pandas, Matplotlib
