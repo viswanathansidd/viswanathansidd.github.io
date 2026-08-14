@@ -1,6 +1,6 @@
 # Hi, I'm Sidd 👋
 
-Senior Year at UNC Chapel Hill, studying Data Science and Economics. Aspiring data analyst. Passionate about turning raw data into insights.
+Senior at UNC Chapel Hill studying Data Science & Economics. Aspiring data analyst who loves turning raw numbers into clear, actionable insights.
 
 ## 🔗 Links
 - [LinkedIn](https://www.linkedin.com/in/siddviswanathan/)
